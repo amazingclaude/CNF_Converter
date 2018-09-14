@@ -14,7 +14,8 @@
 #-------------------------------------------------------------------------------
 ```
 
-Instructions on how to run the code:
+
+## Instructions on how to run the code:
 1) The code is written in Python version 2.7. 
    It is ideally to run the code under a Python GUL which is compatible with Python version 2.7, 
    for example PyScripter for Python 2.7 (This tool exits in the University of Aberdeen IT toolkit.)
